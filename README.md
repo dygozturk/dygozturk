@@ -27,6 +27,7 @@
     <img src="https://img.shields.io/badge/CyberSecurity-5C3EE8?style=for-the-badge&logo=security&logoColor=white"/>
 </p>
 ---
+
 ### 💼 **Work Experience**
 
 ### 📌 **Stajyer | Recep Tayyip Erdoğan Üniversitesi**
