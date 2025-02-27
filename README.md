@@ -41,7 +41,7 @@
 ### 💼 **Work Experience**
 
 ### 📌 **Stajyer | Recep Tayyip Erdoğan Üniversitesi**
-📅 **Şubat 2025 - Halen**  
+📅 **Şubat 2025 - Çalışıyor**  
 📍 **Rize, Türkiye | Hibrit**  
 🎯 **Üniversite-Sanayi İş Birliği Destekli (ÜSİD) Uzun Dönem Staj**  
 🔹 **Teknolojiler:** Python, AI, Computer Vision
