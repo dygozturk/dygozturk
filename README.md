@@ -44,7 +44,8 @@
 📅 **February 2025 - Çalışıyor**  
 📍 **Rize, Türkiye | Hibrit**  
 🎯 **University-Industry Cooperation Supported (USID) Long-Term Internship**  
-🛠  **Technologies Used:** Python, AI, Deep Learning
+🛠  **Technologies Used:** 
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Deep%20Learning-0055FF?style=for-the-badge&logo=tensorflow&logoColor=white"/>
