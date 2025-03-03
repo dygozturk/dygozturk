@@ -40,38 +40,42 @@
 
 ### 💼 **Work Experience**
 
-### 📌 **Stajyer | Recep Tayyip Erdoğan Üniversitesi**
-📅 **Şubat 2025 - Çalışıyor**  
+### 📌 **Intern | Recep Tayyip Erdoğan Üniversitesi**
+📅 **February 2025 - Çalışıyor**  
 📍 **Rize, Türkiye | Hibrit**  
-🎯 **Üniversite-Sanayi İş Birliği Destekli (ÜSİD) Uzun Dönem Staj**  
-🔹 **Teknolojiler:** Python, AI, Computer Vision
+🎯 **University-Industry Cooperation Supported (USID) Long-Term Internship**  
+🛠  **Technologies Used:** Python, AI, Deep Learning
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Deep%20Learning-0055FF?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
 
 ---
 
-### 📌 **Stajyer | Başarsoft**
-📅 **Ağustos 2024 - Eylül 2024**  
-📍 **Ankara, Türkiye | Uzaktan**  
-🔹 **Görevler:**
-- C# ve HTML kullanarak uygulama geliştirme
-- Web teknolojileri ile entegrasyon süreçleri
-- Veritabanı optimizasyonu ve performans iyileştirme  
+### 📌 **Intern | Başarsoft**
+📅 **August 2024 - September 2024**  
+📍 **Ankara, Türkiye | Remote**  
+🔹 **Tasks:**
+- Application development using C# and HTML
+- Integration processes with web technologies
+- Database optimization and performance improvement
 
-🛠 **Kullanılan Teknolojiler:**  
+🛠 **Technologies Used:**  
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>  
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>  
 
 ---
 
-### 📌 **Stajyer | IBSS Technology and Software**
-📅 **Ağustos 2023 - Eylül 2023**  
-📍 **Ataşehir, İstanbul, Türkiye | Ofisten**  
-🔹 **Görevler:**
-- DAX ve Python kullanarak veri analizi yapma
-- Veri raporlama ve dashboard oluşturma
-- SQL sorguları ile büyük veri işleme  
+### 📌 **Intern | IBSS Technology and Software**
+📅 **August 2023 - September 2023**  
+📍 **Ataşehir, İstanbul, Türkiye | Office**  
+🔹 **Tasks:**
+- Performing data analysis using DAX and Python
+- Data reporting and dashboard creation
+- Big data processing with SQL queries 
 
-🛠 **Kullanılan Teknolojiler:**  
+🛠 **Technologies Used:**  
 <img src="https://img.shields.io/badge/DAX-FF6F00?style=for-the-badge&logo=power-bi&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>  
