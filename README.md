@@ -41,8 +41,8 @@
 ### 💼 **Work Experience**
 
 ### 📌 **Intern | Recep Tayyip Erdoğan Üniversitesi**
-📅 **February 2025 - Çalışıyor**  
-📍 **Rize, Türkiye | Hibrit**  
+📅 **February 2025 - Working**  
+📍 **Rize, Türkiye | Hybrid**  
 🎯 **University-Industry Cooperation Supported (USID) Long-Term Internship**  
 🛠  **Technologies Used:** 
 
