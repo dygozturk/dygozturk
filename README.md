@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Duygu 👋</h1>
 
 <p align="center">
-Computer Engineer | Data & Machine Learning Enthusiast
+Computer Engineer | Data & Machine Learning & Cybersecurity Enthusiast
 </p>
 
 ---
