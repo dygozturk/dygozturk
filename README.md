@@ -6,7 +6,7 @@ Computer Engineer | AI & Data Enthusiast | Machine Learning & Software Developme
 </h3>
 
 <p align="center">
-  <i>Building intelligent solutions through data, code, and curiosity.</i>
+  <i>Turning data into insights and ideas into intelligent solutions.</i>
 </p>
 
 <p align="center">
@@ -25,99 +25,94 @@ Computer Engineer | AI & Data Enthusiast | Machine Learning & Software Developme
 
 ## 👩‍💻 About Me
 
-I'm a Computer Engineering graduate with a strong interest in **Artificial Intelligence, Data Analytics, and Machine Learning**.
+I'm a **Computer Engineering graduate** with a strong interest in **Artificial Intelligence, Data Analytics, and Machine Learning**.
 
-I enjoy exploring data, developing intelligent systems, and transforming technical ideas into practical applications.
+I enjoy exploring complex datasets, developing predictive models, and transforming raw data into meaningful insights.
 
-My experience includes AI-powered transcription, computer vision, audio classification, predictive modeling, anomaly detection, and backend development.
+My academic and professional experience includes:
 
-Alongside AI and data, I have a growing interest in **Cybersecurity**, particularly ethical hacking fundamentals, web application security, and AI-driven anomaly detection.
+- Developing and evaluating machine learning models
+- Data preprocessing, analysis, and visualization
+- Anomaly detection and deep learning applications
+- Building interactive dashboards with Power BI
+- Backend development and database integration
+- Researching AI-based approaches to network security
 
-I believe that building intelligent systems also means understanding their reliability, security, and real-world impact.
+I also have a growing interest in **Cybersecurity**, supported by ethical hacking training and hands-on exploration of security concepts.
 
-### 🌱 What I'm Currently Exploring
+My goal is to combine analytical thinking, software engineering, and AI technologies to develop reliable, practical, and data-driven solutions.
+
+### 🌱 Currently Exploring
 
 - 🤖 Artificial Intelligence & Applied AI
-- 📊 Data Analytics, Data Quality & Business Intelligence
+- 📊 Data Analytics & Business Intelligence
 - 🧠 Machine Learning & Deep Learning
-- 💻 Python Development & API Integration
-- 🛡️ Cybersecurity & Secure Software Practices
+- 🐍 Python & Data Processing
+- 🛡️ Cybersecurity & Anomaly Detection
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 📊 InsightAI — AI Data Analyst
-**Status:** In Development
+**Status: In Development**
 
-A modular, AI-oriented data analytics project designed to explore data quality, preprocessing, and analytical workflows.
+A modular data analytics project focused on building reliable data processing and analytical workflows.
 
-**Tech:** Python, Pandas, Pytest, Git
+**Technologies:** Python, Pandas, Pytest, Git
 
 - Automated data quality assessment
 - Missing value and duplicate detection
 - Transaction classification
 - Data cleaning and preprocessing
-- Modular development and unit testing
+- Modular Python development
+- Unit testing and validation
 
-🔗 [Explore Repository](https://github.com/dygozturk/InsightAI)
+🔗 [View Project](https://github.com/dygozturk/InsightAI)
 
-### 🎙️ AI-Powered Medical Transcription
+---
 
-A proof-of-concept medical speech-to-text application developed during my internship at Anadolu Medical Center.
+### 🛡️ IoT Anomaly Detection — TON-IoT Dataset
 
-**Tech:** Whisper, FastAPI, Flutter, MSSQL
+A machine learning and deep learning project focused on detecting anomalies and potential cyber threats in IoT environments.
 
-- Turkish speech recognition
-- Audio processing and transcription
-- REST API integration
-- Database-backed audio management
-- Asynchronous job polling
+**Technologies:** Python, Scikit-learn, TensorFlow
 
-### 🚗 Real-Time License Plate Recognition
-
-A computer vision pipeline for detecting, recognizing, and tracking vehicle license plates.
-
-**Tech:** YOLOv8, OpenCV, Tesseract OCR, SORT, SQLite
-
-- Real-time object detection
-- Optical character recognition
-- Vehicle tracking
-- Database integration
-
-### 🔊 Deep Learning-Based Audio Classification
-
-Exploration of transformer-based deep learning architectures for audio classification.
-
-**Tech:** AST, Wav2Vec2, Librosa, Streamlit
-
-- Audio preprocessing and augmentation
-- Transformer-based model experimentation
-- Classification workflows
-- Interactive demonstration interface
-
-### 🛡️ IoT Anomaly Detection
-
-Machine learning and deep learning experiments for identifying anomalies and potential security threats in IoT environments.
-
-**Tech:** Python, TensorFlow, Scikit-learn
-
-- LSTM, CNN, DNN and Autoencoders
-- Isolation Forest
+- LSTM, CNN, DNN
+- Autoencoder and Isolation Forest
 - Graph Neural Networks (GNN/GCN)
-- Model evaluation and comparison
-
-### 🎓 Student Performance Prediction
-
-A machine learning project combining supervised learning and clustering to analyze student performance.
-
-**Tech:** Python, Scikit-learn, XGBoost
-
-- Random Forest, XGBoost, Decision Tree, KNN
 - Hyperparameter optimization
-- KMeans clustering
-- Silhouette score analysis
-- Model performance evaluation
+- Cross-validation and model benchmarking
+- Evaluation using Accuracy, Precision, Recall, F1 and ROC-AUC
+
+---
+
+### 🎓 Student Performance ML System
+
+An end-to-end machine learning workflow for predicting student performance using a dataset of over 6,600 samples.
+
+**Technologies:** Python, Scikit-learn, XGBoost
+
+- Decision Tree, Random Forest and XGBoost
+- Hyperparameter tuning with RandomizedSearchCV
+- Model comparison and performance evaluation
+- Feature importance analysis
+- R² and RMSE evaluation
+
+**Result:** Achieved R² = 0.85 on the test set using XGBoost.
+
+---
+
+### 🌍 Global BMI Analysis — R & Shiny
+
+An interactive data analytics project exploring global BMI and obesity-related trends.
+
+**Technologies:** R, ggplot2, Shiny
+
+- Data cleaning and validation
+- Exploratory data analysis
+- Statistical visualization
+- Interactive dashboard development
 
 ---
 
@@ -125,59 +120,77 @@ A machine learning project combining supervised learning and clustering to analy
 
 | Category | Technologies & Skills |
 |---|---|
-| **Programming** | Python, SQL, R, Java, JavaScript, HTML, CSS |
-| **AI & Machine Learning** | PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost |
-| **Computer Vision & Audio AI** | YOLOv8, OpenCV, Whisper, Wav2Vec2, AST |
-| **Data Analytics & BI** | Pandas, NumPy, Power BI, DAX, Excel, EDA |
-| **Backend Development** | FastAPI, Flask, SQLAlchemy, REST APIs, Streamlit |
-| **Databases** | MSSQL, Oracle SQL, SQLite |
-| **Cybersecurity** | OSINT, Nmap, Burp Suite, Metasploit, Web Security Fundamentals |
-| **Tools** | Git, GitHub, VS Code, Jupyter, Figma, Linux |
+| **Programming** | Python, SQL, C++, C# |
+| **Machine Learning** | Scikit-learn, XGBoost, Model Evaluation, Hyperparameter Optimization |
+| **Deep Learning** | LSTM, CNN, DNN, Autoencoder, GNN/GCN |
+| **Data Analytics** | Pandas, Data Preprocessing, Feature Engineering, EDA |
+| **Business Intelligence** | Power BI, DAX, Excel, Dashboard Development |
+| **Databases** | PostgreSQL, MySQL, SQL Query Optimization |
+| **Software Development** | C#, Backend Development, Database Integration |
+| **Cybersecurity** | Ethical Hacking Fundamentals, OSINT, Nmap, Web Security Basics |
+| **Tools** | Git, GitHub, Jupyter Notebook, VS Code, Linux, Bash |
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏥 AI Intern — Anadolu Medical Center
-*Jul 2025 – Sep 2025*
+### 📊 Data Visualization Intern — IBSS Technology and Software
+*Jul 2023 – Sep 2023*
 
-- Developed an AI-powered medical transcription proof of concept.
-- Integrated Whisper speech recognition with FastAPI and Flutter.
-- Worked with MSSQL and audio processing workflows.
-
-### 🤖 AI Intern — Samm Technology
-*Feb 2025 – May 2025*
-
-- Developed a real-time license plate recognition pipeline.
-- Experimented with deep learning architectures for audio classification.
-- Applied computer vision, OCR, and audio processing techniques.
-
-### 📋 Project Management Intern — SCA Social
-*Apr 2025 – May 2025*
-
-- Supported requirements analysis and project planning.
-- Worked on stakeholder coordination and risk assessment.
-
-### 💻 Software Development Intern — Gebze Municipality
-*Jul 2024 – Sep 2024*
-
-- Worked with JSF, PrimeFaces, and Oracle SQL.
-- Gained experience with stored procedures and role-based access control.
-
-**Additional Internship Experience**
-
-IBSS Technology · Renewasoft · Başarsoft · Recep Tayyip Erdoğan University
+- Performed data analysis using SQL and Python.
+- Developed Power BI dashboards for business-oriented reporting.
+- Visualized analytical outputs to support decision-making.
+- Worked on Python development activities within the R&D department.
 
 ---
 
-## 🏆 Achievements & Certifications
+### 🔬 Research Intern — Renewasoft Energy and Software
+*Jun 2025 – Aug 2025*
 
-- 🥇 **1st Place** — Digital Telkonekt Competition (2024)
-- 🥈 **2nd Place** — Sustain2Solve Competition (2023)
-- 🛡️ **White Hat Ethical Hacking Training** — Siber Vatan (2026)
-- 📊 **Power BI Training** — BTK Academy (2026)
-- 🗄️ **Advanced Oracle SQL Training** (2024)
-- 🎨 **Image Processing Workshop** (2024)
+**Defense Industry Project Research**
+
+- Contributed to technical feasibility studies involving data analytics and machine learning.
+- Conducted literature reviews on datasets, algorithms, and performance metrics.
+- Compared machine learning methodologies.
+- Supported project requirement analysis and methodology selection.
+
+---
+
+### 🤖 Research Intern — Recep Tayyip Erdoğan University
+*Feb 2025 – Jun 2025*
+
+**University-Industry Cooperation Supported (ÜSİD) Internship**
+
+- Researched ML/DL approaches for IoT and network security.
+- Implemented machine learning methods using Python.
+- Experimented with Autoencoder, Isolation Forest, LSTM, CNN and DNN.
+- Conducted benchmark and comparative performance analyses.
+- Documented experimental findings in technical reports.
+
+---
+
+### 💻 Software Development Intern — Başarsoft
+*Aug 2024 – Oct 2024*
+
+- Participated in backend development using C#.
+- Worked with PostgreSQL database integration.
+- Developed SQL queries and performed query optimization.
+- Integrated a map-based frontend interface with backend services.
+
+---
+
+## 🏆 Certifications & Training
+
+**Cybersecurity**
+- 🛡️ White Hat Ethical Hacking — Siber Vatan
+- 🔐 Introduction to Cybersecurity — BTK Academy
+- 🔥 Introduction to Firewalls — BTK Academy
+
+**Artificial Intelligence & Data**
+- 🤖 Introduction to Natural Language Processing — BTK Academy
+- 🧠 Geleceği Yazan Kadınlar: Artificial Intelligence — Turkcell
+- 📊 Power BI Training — Udemy
+- 📈 Advanced Excel — Excel Okulu
 
 ---
 
@@ -185,14 +198,17 @@ IBSS Technology · Renewasoft · Başarsoft · Recep Tayyip Erdoğan University
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dygozturk&show_icons=true&theme=transparent&hide_border=true" height="165" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dygozturk&layout=compact&theme=transparent&hide_border=true" height="165" />
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Connect!
 
-I'm always open to learning, collaborating, and exploring new opportunities in AI, Data Analytics, Machine Learning, and Software Development.
+I'm always interested in learning new technologies, collaborating on projects, and exploring opportunities in AI, Data Analytics, Machine Learning, and Software Development.
 
 📧 **Email:** dygozturkk61@gmail.com
 
@@ -203,5 +219,5 @@ I'm always open to learning, collaborating, and exploring new opportunities in A
 ---
 
 <p align="center">
-  <i>Turning data into insights, ideas into code, and curiosity into innovation. 🚀</i>
+  <i>Learning continuously. Building thoughtfully. Growing through technology. 🚀</i>
 </p>
