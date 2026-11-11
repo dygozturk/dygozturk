@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Duygu! 👋</h1>
 
 <h3 align="center">
-Computer Engineer | AI & Data Enthusiast | Machine Learning & Software Development
+Computer Engineer | Artificial Intelligence & Data Analytics | Machine Learning
 </h3>
 
 <p align="center">
